@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@paperstack/paperstack": "^0.1.2"
+    "@paperstack/paperstack": "^0.4.0"
   }
 }
