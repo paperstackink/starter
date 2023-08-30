@@ -45,7 +45,17 @@
 
     <Paragraph class="mt-4">
         Some common use cases for components are layouts or re-usable UI elements like buttons or form elements.
+    </Paragraph>    
+
+    <Paragraph class="mt-4">
+        Components has a number of advanced features that make them easier to compose together:
     </Paragraph>
+
+    <List class="mt-4">
+        <ListItem>Components can be rendered dynamically using <InlineCode>Component</InlineCode></ListItem>
+        <ListItem>Components can be used recursively</ListItem>
+        <ListItem>All properties of a record can be bound as attributes</ListItem>
+    </List>
 
     <Headline2>Assets</Headline2>
 
