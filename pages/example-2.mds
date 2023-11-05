@@ -1,0 +1,8 @@
+---
+layout: Page
+title: Example 2
+---
+
+# Example 2
+
+Go back to the main page <Link href="/">here</Link>.

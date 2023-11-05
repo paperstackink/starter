@@ -16,9 +16,7 @@ module.exports = {
 	|   - 'prepend' :  Add link before headline text     -  <h2 id="headline-2"><a href="headline-2"></a>Headline 2</h2>
 	|
 	*/
-
 	linkHeadlines: null,
-
 	/*
 	|--------------------------------------------------------------------------
 	|   External links
@@ -27,6 +25,5 @@ module.exports = {
 	|   Specify whether you want to open external links in a new tab.
 	|
 	*/
-
 	openExternalLinksInNewTab: true,
 };

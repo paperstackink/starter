@@ -11,7 +11,7 @@ lerna-debug.log*
 node_modules/
 
 # Paperstack
-Output
+output
 
 # yarn v2
 .yarn/cache
