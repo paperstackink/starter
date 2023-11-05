@@ -18,7 +18,7 @@
     </Paragraph>
 
     <List class="mt-4">
-        @each(page in $pages.pages)
+        @each(page in $pages.$pages)
             @if(page.title)
                 <ListItem>
                     <Link href="{{ page.path }}">
